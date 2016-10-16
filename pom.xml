@@ -52,7 +52,7 @@
             {
                 "paths": {
                     "bootstrap-notify": "bootstrap-notify",
-                    "bootstrap-notify-min": "bootstrap-notify.min",
+                    "bootstrap-notify-min": "bootstrap-notify.min"
                 },
                 "shim": {
                     "bootstrap-notify": {
